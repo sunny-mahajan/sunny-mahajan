@@ -79,7 +79,7 @@
 | ![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=sunny-mahajan&show_icons=true&theme=tokyonight) | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-mahajan&layout=compact&show_icon=true&theme=algolia" alt="sunny-mahajan-langs"/> |
 | --- | --- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=sunny-mahajan&layout=compact&theme=algolia" alt="Sunny Kumar" /> | ![Sunny's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunny-mahajan&theme=tokyonight) |
+| <img src="https://github-profile-trophy.vercel.app/?username=sunny-mahajan&layout=dracula&theme=dracula&column=4&row=1" alt="Sunny Kumar" /> | ![Sunny's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunny-mahajan&theme=tokyonight) |
 | --- | --- |
 
 <div align="center">  
