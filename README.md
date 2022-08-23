@@ -2,7 +2,7 @@
 <img alt="Sunny's | Count Views" src="https://en7651zhhra152k.m.pipedream.net" />
 
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Sunny Mahajan</a></h1>
+  <h1 align="center">Hi 👋, I'm Sunny Kumar</a></h1>
   <h3 align="center">A Top Rated PHP, Laravel & React Developer</h3>
 <br/>
 </div>
@@ -16,7 +16,7 @@
 - :monocle_face: I'm interested in coding, project management, cricket and watching movies
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -46,18 +46,19 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </kbd>
   <br>
   <br>
   
   <kbd>
-    <kbd>Terminal Scripts</kbd>
+    <kbd>DevOps</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
   </kbd>
   &nbsp;
   <kbd>
@@ -82,7 +83,10 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=sunny-mahajan&theme=react-dark"/>
 </div>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h2 align="center"> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
+</h2>
+
 <p align="center">
   <a href="mailto:sunny@techformation.co.in" >
     <img align="center" alt="Sunny Kumar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -105,9 +109,3 @@
     <img align="center" alt="Sunny Kumar  | Upwork" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" />
   </a> &nbsp;&nbsp;
 <p> 
-
-------
-
-Credit: [Sunny Kumar](https://github.com/sunny-mahajan)
-
-Last Edited on: 23/08/2022
