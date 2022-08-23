@@ -12,7 +12,7 @@
 
 - :school: I've completed my masters degree in Computer Applications
 - :books: My major interest is in **Software Engineering**
-- :earth_asia: I'm living now in *Pubjab, India**
+- :earth_asia: I'm living now in *Punjab, India*
 - :monocle_face: I'm interested in coding, project management, cricket and watching movies
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 
