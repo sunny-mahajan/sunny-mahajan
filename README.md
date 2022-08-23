@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Sunny Kumar</a></h1>
-  <h3 align="center">A Top Rated PHP, Laravel & React Developer</h3>
+  <h3 align="center">A Top Rated PHP, Laravel, React & Node Developer</h3>
 <br/>
 </div>
 
