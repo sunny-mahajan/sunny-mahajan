@@ -82,10 +82,6 @@
 | <img src="https://github-profile-trophy.vercel.app/?username=sunny-mahajan&layout=dracula&theme=dracula&column=4&row=1" alt="Sunny Kumar" /> | ![Sunny's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunny-mahajan&theme=tokyonight) |
 | --- | --- |
 
-<div align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=sunny-mahajan&theme=react-dark"/>
-</div>
-
 <h2 align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
 </h2>
