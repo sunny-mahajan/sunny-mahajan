@@ -6,90 +6,209 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Sunny Kumar</h1>
-  <h3>A Top-Rated Full Stack Developer | PHP • Laravel • React • Node • Python • Next.js</h3>
+  <h3>🤖 AI Engineer & Automation Expert | Prompt Engineering • AI Agents • MCP • n8n | Full Stack Developer</h3>
+  <h4>Specializing in Agentic AI, LLM Integration & Intelligent Automation Solutions</h4>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"> About Me
 
-- 🎓 Master’s degree in Computer Applications  
-- 🧠 Passionate about **Software Engineering**, scalable architecture, and clean code  
+- 🤖 **AI-First Developer** building intelligent systems and autonomous agents
+- 🎓 Master's degree in Computer Applications  
+- 🧠 Expert in **Prompt Engineering**, **Agentic AI**, **MCP Servers/Clients**, and **Workflow Automation**
+- 💡 Passionate about **LLM Integration**, **RAG Systems**, and **AI-Powered Applications**
 - 🌍 Based in **Punjab, India**  
-- ⚽ Interests: coding, project management, cricket, movies  
-- ✨ Motto: _"It's never too late – never too late to start over, never too late to be happy"_
+- ⚡ Building the future with **AI Agents**, **Automation**, and **Scalable Architecture**
+- ✨ Motto: "Turning AI dreams into production reality"
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Tech Stack
-
-<p align="center">
-  <kbd>
-    <kbd>Front-end</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Back-end</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
-  </kbd>
-  <br><br>
-  <kbd>
-    <kbd>Frameworks & Libraries</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>DevOps & Cloud</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Tools & OS</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-  </kbd>
-</p>
-
----
-
-## 📊 Stats
+## 🤖 AI & Automation Stack
 
 <div align="center">
 
-| ![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunny-mahajan&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-mahajan&layout=compact&show_icons=true&theme=algolia) |
-|:--:|:--:|
+### AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
 
-| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sunny-mahajan&theme=dracula&column=4&row=1) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunny-mahajan&theme=tokyonight) |
-|:--:|:--:|
+### AI Development & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3348?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+</p>
+
+### Automation & Integration
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge&logo=flowise&logoColor=white" alt="Flowise" />
+  <img src="https://img.shields.io/badge/Botpress-0084FF?style=for-the-badge&logo=botpress&logoColor=white" alt="Botpress" />
+</p>
+
+### Vector Databases & RAG
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/ChromaDB-FFA116?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Weaviate-FF6600?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
+  <img src="https://img.shields.io/badge/Qdrant-FF5A00?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Milvus-00A8E1?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
+</p>
+
+### AI Specializations
+<p>
+  <img src="https://img.shields.io/badge/🎯_Prompt_Engineering-4CAF50?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/🤖_Agentic_AI-2196F3?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/🔄_RAG_Systems-FF9800?style=for-the-badge" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/🧩_MCP_Expert-9C27B0?style=for-the-badge" alt="MCP Expert" />
+  <img src="https://img.shields.io/badge/⚡_AutoGPT-FF5722?style=for-the-badge" alt="AutoGPT" />
+</p>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with Me
+## 💻 Full Stack Tech Stack
 
-<p align="center">
-  <a href="mailto:sunny@techformation.co.in"><img alt="Email" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sunny-mahajan" target="_blank"><img alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
-  <a href="https://profile-summary-for-github.herokuapp.com/user/sunny-mahajan" target="_blank"><img alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a> &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/3247211/sunny-kumar" target="_blank"><img alt="Stack Overflow" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" /></a> &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01e3fa253812ff4958" target="_blank"><img alt="Upwork" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" /></a>
+<div align="center">
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+</div>
+
+---
+
+## 🚀 Featured AI Projects & Expertise
+
+<div align="left">
+
+### 🤖 **AI Agents & Automation**
+- **Autonomous AI Agents**: Building self-directed agents using LangChain, AutoGPT patterns, and CrewAI
+- **MCP Integration**: Expert in Model Context Protocol for seamless AI-tool communication
+- **n8n Workflows**: Complex automation workflows integrating multiple AI services and APIs
+- **RAG Systems**: Production-grade Retrieval-Augmented Generation for intelligent document processing
+
+### 🎯 **Prompt Engineering**
+- **Advanced Techniques**: Chain-of-thought, few-shot, tree-of-thought, and ReAct prompting
+- **Prompt Optimization**: A/B testing and iterative refinement for optimal outputs
+- **Custom GPTs & Assistants**: Building specialized AI assistants for domain-specific tasks
+- **Multi-modal Prompting**: Working with text, vision, code generation, and audio models
+
+### ⚡ **LLM Integration & Fine-tuning**
+- **API Integration**: OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face
+- **Fine-tuning**: Custom model training using LoRA, QLoRA for specialized use cases
+- **Embeddings & Vector Search**: Semantic search, similarity matching, and knowledge retrieval
+- **Cost Optimization**: Token management, caching strategies, and model selection
+
+### 🔧 **Production AI Systems**
+- **Scalable Architecture**: Microservices, serverless, and event-driven AI systems
+- **MLOps & LLMOps**: Model versioning, monitoring, and deployment pipelines
+- **Security & Compliance**: Data privacy, prompt injection prevention, and audit trails
+- **Performance Optimization**: Response streaming, batching, and edge deployment
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sunny-mahajan&show_icons=true&theme=tokyonight" alt="Sunny's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-mahajan&layout=compact&show_icons=true&theme=algolia" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=sunny-mahajan&theme=dracula&column=4&row=1" alt="GitHub Trophies" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=sunny-mahajan&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎓 **Prompt Engineering Specialist** - Advanced techniques in LLM optimization
+- 🤖 **AI Agent Development** - Building autonomous systems with LangChain & AutoGPT
+- 🔧 **n8n Expert** - Workflow automation and integration specialist
+- 🏗️ **MCP Architecture** - Model Context Protocol implementation expert
+- 🚀 **RAG Systems Architect** - Vector databases and retrieval optimization
+- ⭐ **Top-Rated Freelancer** - Upwork AI & Full Stack Development
+- 📈 **AI/ML Solutions** - 50+ successful AI integrations delivered
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+  
+  **I'm always excited to work on innovative AI projects and help businesses leverage the power of artificial intelligence!**
+  
+  <p>
+    <a href="mailto:sunny@techformation.co.in">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/sunny-mahajan">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/sunny-mahajan">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://stackoverflow.com/users/3247211/sunny-kumar">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01e3fa253812ff4958">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+    </a>
+  </p>
+  
+  ---
+  
+  <p>
+    <i>🚀 Building the future with AI, one intelligent system at a time!</i>
+  </p>
+  
+</div>
